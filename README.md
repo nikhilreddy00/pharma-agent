@@ -31,7 +31,7 @@ To answer this responsibly, they must:
 
 ## Our Solution: PharmAgent
 
-PharmAgent is an **agentic RAG (Retrieval-Augmented Generation) system** that autonomously:
+PharmAgent is an **Agentic RAG (Retrieval-Augmented Generation) system** that autonomously:
 
 1. Decomposes complex drug safety questions into targeted sub-queries
 2. Retrieves evidence from three distinct medical knowledge bases simultaneously
